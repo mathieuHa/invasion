@@ -1,0 +1,2614 @@
+# depslib dependency file v1.0
+1394548462 source:e:\isn\projets\invasion\test.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1250305080 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1250305074 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1250305080 c:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1250305082 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\program files\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1326110994 c:\program files\codeblocks\mingw\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1250305078 c:\program files\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1250305078 c:\program files\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1250305080 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1250305080 c:\program files\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1250305076 c:\program files\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1250305080 c:\program files\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1250305076 c:\program files\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1326111000 c:\program files\codeblocks\mingw\include\sdl\begin_code.h
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\close_code.h
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1250305078 c:\program files\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1395153176 source:f:\isn projet\projets\invasion\test.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1395343066 source:c:\users\mathieu\desktop\isn projet\projets\invasion\test.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1395437506 source:c:\users\mathieu\desktop\isn projet\projets\invasion\avancé.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1395343066 source:c:\users\mathieu\desktop\isn projet\projets\invasion 2.0\test.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1395478144 source:c:\users\mathieu\desktop\isn projet\projets\invasion 2.0\avancé.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1395493747 source:c:\users\mathieu\skydrive\documents\ecole\terminale\isn\sdl\invasion 3.0\avancé.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1395493747 source:c:\users\mathieu\desktop\isn projet\projets\invasion 3.0\avancé.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1395512478 source:c:\users\mathieu\desktop\isn projet\projets\invasion 4.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1395512009 c:\users\mathieu\desktop\isn projet\projets\invasion 4.0\main.h
+
+1395510597 c:\users\mathieu\desktop\isn projet\projets\invasion 4.0\fonction.h
+
+1395502069 c:\users\mathieu\desktop\isn projet\projets\invasion 4.0\usefull.c
+	"main.h"
+
+1395511102 source:c:\users\mathieu\desktop\isn projet\projets\invasion 4.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1395512478 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 4.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396090434 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 4.0\main.h
+
+1395510597 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 4.0\fonction.h
+
+1396090389 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 4.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396716230 source:c:\users\mathieu\desktop\invasion 4.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<math.h>
+
+1396716880 c:\users\mathieu\desktop\invasion 4.0\main.h
+
+1395510598 c:\users\mathieu\desktop\invasion 4.0\fonction.h
+
+1396090390 source:c:\users\mathieu\desktop\invasion 4.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396782302 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<math.h>
+
+1396782325 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.0\main.h
+
+1395510598 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.0\fonction.h
+
+1396090390 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396799880 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.1 avec fond\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396800416 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.1 avec fond\main.h
+
+1395510598 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.1 avec fond\fonction.h
+
+1396801992 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.1 avec fond\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<math.h>
+	<SDL/SDL_ttf.h>
+
+1396983984 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396904177 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.2\main.h
+
+1396983890 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.2\fonction.h
+
+1396905818 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.2\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396983781 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.2\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396984901 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.3 fonction deplacement affichage ok\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396904177 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.3 fonction deplacement affichage ok\main.h
+
+1397056548 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.3 fonction deplacement affichage ok\fonction.h
+
+1397056420 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.3 fonction deplacement affichage ok\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1396905818 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.3 fonction deplacement affichage ok\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397056279 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.3 fonction deplacement affichage ok\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397245167 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.4 fonction chargement img en cours\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397302127 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.4 fonction chargement img en cours\main.h
+
+1397301098 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.4 fonction chargement img en cours\fonction.h
+
+1397246671 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.4 fonction chargement img en cours\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397301296 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.4 fonction chargement img en cours\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397300303 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.4 fonction chargement img en cours\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397302260 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 5.4 fonction chargement img en cours\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397245167 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397316861 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\main.h
+
+1397317982 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\fonction.h
+
+1397246671 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397318100 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397318305 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397318092 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397317147 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.0 menu gérer\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397330563 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397336483 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\main.h
+
+1397325731 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\fonction.h
+
+1397246671 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397301296 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397317147 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397323492 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397336258 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 6.1 probleme effacement surface retour au menu gerer\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397387785 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397388951 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\main.h
+
+1397386048 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\fonction.h
+
+1397387785 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397389061 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397389122 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397388801 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397387785 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.0 placement enemie colonne ligne\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397401068 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397388951 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\main.h
+
+1397386048 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\fonction.h
+
+1397387785 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397394244 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397388801 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397387785 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397395103 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.1 commentée\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397417389 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397416341 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\main.h
+
+1397415557 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\fonction.h
+
+1397417443 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397388801 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397415909 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397416108 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397416711 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 7.2 commentée\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397481976 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1397481848 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\main.h
+
+1397483189 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\fonction.h
+
+1397483297 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397483682 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397483189 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397483189 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397415909 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 8.0 structurer\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\main.h
+
+1397483189 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\fonction.h
+
+1397505411 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505264 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.0 choix du theme et des niveaux possibles manque image option\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\main.h
+
+1397483189 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\fonction.h
+
+1397551212 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397550529 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397552193 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397506248 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.1 menu option image ajouté\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397572688 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1397573952 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\main.h
+
+1397483189 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\fonction.h
+
+1397551212 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397587045 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397574041 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397506248 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397505139 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 3 theme complet\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\main.h
+
+1397832035 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\fonction.h
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397833048 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397833405 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397830144 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 9.2 test score ratio beug a effacer\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1397935514 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\main.h
+
+1397937620 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\fonction.h
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397833975 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397937620 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397937014 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1397937982 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.0 score ok\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398025425 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1397935514 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\main.h
+
+1398029319 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\fonction.h
+
+1398025627 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398029412 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398026824 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398031410 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398003002 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 10.1 affichage score ok\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398422712 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1398422589 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\main.h
+
+1398421676 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\fonction.h
+
+1398178001 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398422712 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398083321 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"main.h"
+	"fonction.h"
+
+1397827242 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398084589 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398003002 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.0 score interactif\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398438991 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398438991 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\main.h
+
+1398433326 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\fonction.h
+
+1398442227 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398442341 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"main.h"
+	"fonction.h"
+
+1398426947 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398426948 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398426947 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398441576 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 11.1 depassement ecran collision missile tireur score gérer\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1398509597 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1398438991 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\main.h
+
+1398508054 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\fonction.h
+
+1398442377 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398442227 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398459446 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"main.h"
+	"fonction.h"
+
+1398426947 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398426948 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398509050 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.0 colision score tir enemie ok\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398510188 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1398438992 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\main.h
+
+1400703474 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\fonction.h
+
+1398442378 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1400703756 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1398426948 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398426950 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398509052 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398510312 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 12.1 collision rectangle ok optimisé!!\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398510188 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1398438992 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\main.h
+
+1400703476 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\fonction.h
+
+1400958262 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1400953756 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1400953784 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1398426948 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398426950 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398509052 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 13.0 mixer instaléé\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1341013976 c:\users\mathieu\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341013970 c:\users\mathieu\codeblocks\mingw\include\_mingw.h
+
+1341013976 c:\users\mathieu\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341013980 c:\users\mathieu\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1326114594 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1341013974 c:\users\mathieu\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341013974 c:\users\mathieu\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341013976 c:\users\mathieu\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341013976 c:\users\mathieu\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341013972 c:\users\mathieu\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341013976 c:\users\mathieu\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341013970 c:\users\mathieu\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1326114600 c:\users\mathieu\codeblocks\mingw\include\sdl\begin_code.h
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\close_code.h
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341013974 c:\users\mathieu\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341013976 c:\users\mathieu\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1341013974 c:\users\mathieu\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1325793194 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325789340 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\users\mathieu\codeblocks\mingw\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1398510188 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1398438992 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\main.h
+
+1400703476 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\fonction.h
+
+1400958262 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1400953756 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1400953784 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1398426948 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398426950 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1398509052 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401053636 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1401047478 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\main.h
+
+1401047008 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\fonction.h
+
+1401053636 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401044193 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401047277 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1401053938 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401053636 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401046965 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.0 - copie\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401053636 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1401101178 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\main.h
+
+1401096730 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\fonction.h
+
+1401098983 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401097030 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401102186 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL_audio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1401098681 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401104648 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401046965 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 14.5 commentaire en cours\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401053636 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1401101178 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\main.h
+
+1401096730 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\fonction.h
+
+1401097030 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401104708 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1401098681 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401104648 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401046965 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\main.h
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\fonction.h
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\main.h
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\fonction.h
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401209336 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401223460 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 15.9\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1401208162 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\main.h
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\fonction.h
+
+1401566665 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401621869 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208160 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401621805 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 17.0\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1401208162 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\main.h
+
+1401208198 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\fonction.h
+
+1401566665 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402082275 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402086495 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1402086251 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401894751 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1401208198 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 18.0\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402415298 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1402414845 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\main.h
+
+1402161006 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\fonction.h
+
+1402415931 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402415932 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402086251 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402130135 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402415056 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402172655 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 19.0 souris ok\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1402502851 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1402574149 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\main.h
+
+1402645222 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\fonction.h
+
+1402645144 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402576223 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402130135 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402434331 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402568794 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402643374 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1402576772 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\bonus.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402576772 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\souris.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402645560 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 20.0 bonus_ajouté\anim_early_game.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402695682 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\anim_early_game.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402695778 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\main.h
+
+1402695939 d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\fonction.h
+
+1402693775 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1402685556 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\bonus.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402568794 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402696068 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1402576223 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402690281 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402576772 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\souris.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402692115 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402695778 source:d:\bibliothèque mathieu\informatique\isn projet\projets\invasion 21.0 code mis en forme\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402692084 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\anim_early_game.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402692180 c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\main.h
+
+1402692340 c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\fonction.h
+
+1402690176 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\animation.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<time.h>
+	<math.h>
+	"main.h"
+	"fonction.h"
+
+1402681958 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\bonus.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402565196 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\chargement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402692180 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+	<SDL/SDL_mixer.h>
+
+1402692470 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"main.h"
+	"fonction.h"
+
+1402572624 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\option.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402686682 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\score.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402573174 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\souris.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
+1402688516 source:c:\users\mat\desktop\invasion 22.0 clipper on optimiser 5%cpumax\usefull.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"main.h"
+	"fonction.h"
+
